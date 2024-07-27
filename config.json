@@ -1,0 +1,7 @@
+{
+    "username": "root",
+    "password": "root",
+    "startIP": "192.168.11.1",
+    "endIP": "192.168.92.165",
+    "delay": 3
+}
